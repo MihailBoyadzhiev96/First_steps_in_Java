@@ -5,7 +5,7 @@ public class exercise1 {
      String firstName = "Mihail";
      String secondName = "Momchilov";
      String lastName = "Boyadzhiev";
-//Hello
+
      System.out.println("Fisrt name: " + firstName);
      System.out.println("Second name: " + secondName);
      System.out.println("LastName: " + lastName);
